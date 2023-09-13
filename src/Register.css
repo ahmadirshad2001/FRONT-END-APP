@@ -1,0 +1,199 @@
+
+
+.container-fluid{
+    width: 100%;
+    height: 200vh;
+    font-family: sans-serif;
+    background-color: rgb(187, 187, 245);
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+}
+
+.card-1 {
+    width: 500px;
+    height: 650px;
+    box-shadow: 0 0 40px 20px rgb(0, 0, 0, 0.26);
+    background-color: #05003e;
+    color: white;
+    
+}
+.p-tabview .p-tabview-nav li{
+    width: 50%;
+}
+
+.p-tabview .p-tabview-nav li .p-tabview-nav-link {
+    background-color:  #05003e;
+}
+.p-tabview .p-tabview-nav li.p-highlight .p-tabview-nav-link {
+    background:  #F59E0B!important;
+    border-color: #6366F1;
+    color: #6366F1;
+}
+
+
+
+
+.p-tabview-title {
+    line-height: 1;
+    white-space: nowrap;
+    text-align: center;
+    align-items: center;
+    margin-left: 50px;
+    color:  #05003e;
+}
+
+.form-items{
+    margin: 10px;
+}
+.p-tabview-panels {
+    background-color:  #05003e !important;
+}
+
+.tabview{
+    background-color: #0c1f2e;
+}
+
+    
+
+.nav-link{
+   background-color: transparent;
+   border: none;
+   color: #fff;
+   padding: 16px 59px;
+}
+
+
+.Heading {
+    font-weight: normal;
+    font-size: 35px;
+    text-align: center;
+    color: #F59E0B;
+    margin-bottom: 12px;
+    margin-top: -18px;
+}
+
+.form {
+  margin-left: 35px;
+  align-items: center;
+  display: flex;
+
+}
+.last-name{
+    margin-left: 10px;
+}
+
+.phone-number {
+    margin-left: 5px;
+   
+}
+
+.gender{
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.address{
+    width: 100%;
+    margin-top: 12px;
+    background-color: transparent;
+}
+.state{
+    margin-top: 16px;
+    background-color: transparent;
+    color: white;
+}
+
+.contact-details{
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+.h6, h6 {
+    font-size: 1rem;
+    color: white;
+}
+
+label {
+    display: inline-block;
+    color: WHITE;
+}
+.margin{
+    margin-top: 16px;
+  
+
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+   color :white;
+    background-color: transparent;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    appearance: none;
+    border-radius: 0.375rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+text-align: center;
+}
+
+.form-check {
+    display: block;
+    min-height: 1.5rem;
+    padding-left: 2.5em;
+    margin-bottom: 0.125rem;
+}
+.form-check.checkbox-div.check-box {
+    margin-top: 20px;
+}
+
+.p-inputtext {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 1rem;
+    color: white;
+    background-color: transparent !important;
+    padding: 0.75rem 0.75rem;
+    border: 1px solid #ced4da;
+    transition: background-color 0.2s, color 0.2s, border-color 0.2s, box-shadow 0.2s;
+    appearance: none;
+    border-radius: 6px;
+}
+
+.input-box{
+    width: 48%;
+    height: 40px;
+    background: transparent;
+    border: 1px round #fff;
+    margin: 20px, 0;
+    padding: 0, 18px;
+    box-sizing: border-box;
+    outline: none;
+    text-align: center;
+    color: #fff;
+}
+.p-button.p-button-warning, .p-buttonset.p-button-warning > .p-button, .p-splitbutton.p-button-warning > .p-button, .p-fileupload-choose.p-button-warning {
+    color: #1b006e;
+    background: #F59E0B;
+    border: 1px solid #F59E0B;
+    width: 100%;
+    text-align: center;
+    margin-top: 14px;
+   
+    font-size: 16px;
+}
+
+
+::placeholder{
+    color: #fff;
+    font-size: 12px;
+}
+
+.btn {
+    margin-bottom: 0px;
+
+}
+
